@@ -1,6 +1,6 @@
 
-Create a default $PS1 for bash/dash/zsh
-Mirgrate over to "night owl" theme
+Create a default $PS1 for bash/dash/zsh  
+Mirgrate over to "monokai pro" theme  
 Move vimplugged files to .local/share/nvim/plugged
 
 # Terminal emulators
